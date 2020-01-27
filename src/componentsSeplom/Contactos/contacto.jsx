@@ -51,7 +51,7 @@ const contacto = () => {
                         />
                         <CardContent>
                             <Typography gutterBottom variant="h5" component="h2">
-                             Telefonos
+                             Teléfonos
                           </Typography >
                             <Typography className={classes.telefonos} variant="body2" color="textSecondary" component="p">
                               09992881649 / 4511647 /984782051 correo: Progectseplom@gmail.com
