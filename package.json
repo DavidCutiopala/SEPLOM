@@ -1,0 +1,44 @@
+{
+  "name": "store-recording",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": "10.16.0",
+    "npm": "6.10.2"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.0",
+    "bootstrap": "^4.3.1",
+    "google-map-react": "^1.1.5",
+    "node": "^13.6.0",
+    "node-sass": "^4.13.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-image-gallery": "^1.0.5",
+    "react-paypal-express-checkout": "^1.0.5",
+    "react-responsive-video": "^1.2.5",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "react-swipeable-views": "^0.13.5-rc",
+    "react-whatsapp-badge": "^1.0.3",
+    "sass": "^1.25.1-test.1",
+    "styled-components": "^4.2.0",
+    "watchman": "^1.0.0",
+    "whatsapp-button": "^1.0.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
