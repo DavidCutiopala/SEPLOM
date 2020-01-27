@@ -6,7 +6,7 @@ https://www.iconfinder.com/Makoto_msk */
 export const storeProducts = [
   {
     id: 1,
-    title: "Union Roscable 1/2",
+    title: "Unión Roscable 1/2",
     img: "img/union.PNG",
     price: "0.89",
     company: "Plastigama",
@@ -18,7 +18,7 @@ export const storeProducts = [
   },
   {
     id: 2,
-    title: "Union para tanques 1/2",
+    title: "Unión para tanques 1/2",
     img: "img/uniontanque.PNG",
     price: "1.85",
     company: "Plastigama",
@@ -90,7 +90,7 @@ export const storeProducts = [
   },
   {
     id: 8,
-    title: "Tapon 1/2",
+    title: "Tapón 1/2",
     img: "img/taponmacho.PNG",
     price: "0.30",
     company: "Platigama",
