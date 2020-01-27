@@ -42,7 +42,7 @@ const Nosotros = () => {
                         />
                         <CardContent>
                             <Typography gutterBottom variant="h5" component="h2">
-                             MISION
+                             MISIÓN
                           </Typography>
                             <Typography variant="body2" color="textSecondary" component="p">
                                 Ofrecer un servicio inmediato de calidad a todos los inconvenientes  
@@ -68,7 +68,7 @@ const Nosotros = () => {
                         />
                         <CardContent>
                             <Typography gutterBottom variant="h5" component="h2">
-                              VISION
+                              VISIÓN
                           </Typography>
                             <Typography variant="body2" color="textSecondary" component="p">
                                Ser una empresa lider en servicios de plomería inmediata 
