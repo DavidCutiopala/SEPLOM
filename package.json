@@ -18,7 +18,7 @@
     "react-paypal-express-checkout": "^1.0.5",
     "react-responsive-video": "^1.2.5",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "react-swipeable-views": "^0.13.6",
     "react-whatsapp-badge": "^1.0.3",
     "sass": "^1.25.1-test.1",
